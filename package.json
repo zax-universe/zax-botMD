@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zax-universe/zax-botMDi.git"
+    "url": "git+https://github.com/zax-universe/zax-botMD.git"
   },
   "keywords": [
     "wabotMD",
@@ -17,13 +17,13 @@
     "bot",
     "Sc md"
   ],
-  "author": "Yuli",
+  "author": "zax",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/zax-universe/zax-botMDi/issues"
+    "url": "https://github.com/zax-universe/zax-botMD/issues"
   },
-  "homepage": "https://github.com/zax-universe/zax-botMDi#readme",
+  "homepage": "https://github.com/zax-universe/zax-botMD#readme",
   "dependencies": {
     "adm-zip": "^0.5.16",
     "axios": "^1.12.2",
