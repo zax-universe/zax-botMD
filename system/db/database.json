@@ -1,0 +1,66 @@
+{
+  "key": {
+    "YuuKey": {
+      "jid": "6285764889630@s.whatsapp.net",
+      "noId": "0q3s9ux6q",
+      "acc": "06-03-2026",
+      "ban": false,
+      "cmd": 21,
+      "exp": 40,
+      "moneyDb": {
+        "money": 198585,
+        "moneyInBank": 0
+      },
+      "ai": {
+        "bell": true,
+        "chat": 16,
+        "role": "Gak Kenal"
+      },
+      "afk": {
+        "status": false,
+        "reason": "",
+        "afkStart": ""
+      },
+      "game": {
+        "farm": false,
+        "dead": false,
+        "robbery": {
+          "cost": 3
+        },
+        "buff": {},
+        "debuff": {}
+      }
+    },
+    "id.wwbs.net": {
+      "jid": "6287837200053@s.whatsapp.net",
+      "noId": "bp35dzg00",
+      "acc": "06-03-2026",
+      "ban": false,
+      "cmd": 4,
+      "exp": 5,
+      "moneyDb": {
+        "money": 199897,
+        "moneyInBank": 0
+      },
+      "ai": {
+        "bell": false,
+        "chat": 0,
+        "role": "Gak Kenal"
+      },
+      "afk": {
+        "status": false,
+        "reason": "",
+        "afkStart": ""
+      },
+      "game": {
+        "farm": false,
+        "dead": false,
+        "robbery": {
+          "cost": 3
+        },
+        "buff": {},
+        "debuff": {}
+      }
+    }
+  }
+}
